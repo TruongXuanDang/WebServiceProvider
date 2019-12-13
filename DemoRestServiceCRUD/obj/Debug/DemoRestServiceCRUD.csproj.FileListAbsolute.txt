@@ -1,0 +1,6 @@
+C:\Users\truong\source\repos\DemoRestServiceCRUD\DemoRestServiceCRUD\bin\DemoRestServiceCRUD.dll.config
+C:\Users\truong\source\repos\DemoRestServiceCRUD\DemoRestServiceCRUD\bin\DemoRestServiceCRUD.dll
+C:\Users\truong\source\repos\DemoRestServiceCRUD\DemoRestServiceCRUD\bin\DemoRestServiceCRUD.pdb
+C:\Users\truong\source\repos\DemoRestServiceCRUD\DemoRestServiceCRUD\obj\Debug\DemoRestServiceCRUD.csprojAssemblyReference.cache
+C:\Users\truong\source\repos\DemoRestServiceCRUD\DemoRestServiceCRUD\obj\Debug\DemoRestServiceCRUD.dll
+C:\Users\truong\source\repos\DemoRestServiceCRUD\DemoRestServiceCRUD\obj\Debug\DemoRestServiceCRUD.pdb
